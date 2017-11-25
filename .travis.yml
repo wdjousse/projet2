@@ -8,3 +8,4 @@ deploy:
   app: projet2
   on:
     repo: wdjousse/projet2
+run: "rake db:migrate"
